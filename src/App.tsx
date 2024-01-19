@@ -19,7 +19,7 @@ const posts: PostType[] = [
       {
         type: "paragraph",
         content:
-          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "Acabei de subir mais um projeto no meu github. É um projeto que fiz no curso de React.js, curso da Rocketseat. O nome do projeto é Ignite Feed 🚀",
       },
       { type: "link", content: "jane.design/doctorcarep" },
     ],
